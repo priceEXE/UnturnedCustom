@@ -86,9 +86,12 @@ Execute.config
 /obj
 /Temp
 /.vs
-
+/.vscode
 # Unity per-user editor settings
 /UserSettings
+/Packages
+/ProjectSettings/PackageManagerSettings.asset
+/ProjectSettings/ProjectVersion.txt
 
 # Maya thumbnail cache
 .mayaSwatches/
